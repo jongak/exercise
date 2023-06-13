@@ -9,5 +9,9 @@
   - push & pull 사용
   - 협업해보기
 
-
+[![소스트리](./Sourcetree-blue.svg)](https://www.sourcetreeapp.com/, "Sourcetree 홈페이지")
   
+
+### Day 2
+- MarkDown
+  - MarkDown을 통한 readme.md 만들기
